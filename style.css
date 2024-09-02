@@ -1,0 +1,13 @@
+*{
+    background-color: rgba(154, 229, 231, 0.904);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    
+}
+ul{
+    font-style: italic;
+    font-size: 20px;
+}
